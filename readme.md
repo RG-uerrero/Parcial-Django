@@ -1,5 +1,3 @@
-Integrantes:
-- Eduardo Almanza Orozco
+Integrante:
 - Roberto Carlitos Guerrero Silva
-- Javier Ruiz Torres
-- Juan Pablo Meza Gazabón
+
