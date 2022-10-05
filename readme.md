@@ -1,3 +1,2 @@
-Integrante:
+Integrantes:
 - Roberto Carlitos Guerrero Silva
-
